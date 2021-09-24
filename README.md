@@ -1,11 +1,11 @@
 # backend-challenge
 
-#Instrução para execução do projeto
+# Instrução para execução do projeto
 
--- Java 8+
--- Maven
+- Java 8+
+- Maven
 
-#Racional por traz da implementação do desafio
+# Racional por traz da implementação do desafio
 
 Pensando em deixar o código com baixo acoplamento, coeso, flexível, extensível e estável, 
 decidi separar cada uma das validações em classes destintas, cada classe com uma única responsabilidade.
