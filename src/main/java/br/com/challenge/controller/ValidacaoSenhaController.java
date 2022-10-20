@@ -12,7 +12,7 @@ import br.com.challenge.domain.Senha;
 import br.com.challenge.service.ValidacaoSenhaService;
 
 @Controller
-@RequestMapping("/validar-senha")
+@RequestMapping("validar-senha")
 public class ValidacaoSenhaController {
 	
 	private ValidacaoSenhaService service;
